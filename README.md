@@ -73,7 +73,7 @@ ggplot(data, aes(x = Diet, fill = Period)) +
 ## How to Run
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
+   git clone https://github.com/juliaaviee/Dino-Analysis.git
    ```
 2. **Run the R script:**
    ```bash
