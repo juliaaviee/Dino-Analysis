@@ -70,15 +70,6 @@ ggplot(data, aes(x = Diet, fill = Period)) +
 ```
 ![Dinosaur Diets Across Periods](images/diet_by_period_plot.png)
 
-## How to Run
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/juliaaviee/Dino-Analysis.git
-   ```
-2. **Run the R script:**
-   ```bash
-   Rscript dinosaur_analysis.R
-   ```
-3. **Check the `images/` folder** for the saved visualizations.
+> **Check the `images/` folder** for the saved visualizations.
 
 💡 **Made with R and 🦖 dinosaurs!**
