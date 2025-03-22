@@ -82,5 +82,3 @@ ggplot(data, aes(x = Diet, fill = Period)) +
 3. **Check the `images/` folder** for the saved visualizations.
 
 💡 **Made with R and 🦖 dinosaurs!**
-
-# Dino-Analysis
